@@ -125,6 +125,7 @@
   * [http-kit](http://www.http-kit.org/)
   * [ring](https://github.com/ring-clojure/ring)
   * [kvlt](https://github.com/nervous-systems/kvlt)
+  * [ring-proxy](https://github.com/derekchiang/ring-proxy)
 
 ## Database
 
